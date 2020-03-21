@@ -1,19 +1,41 @@
 {
-  "posts": [
+  "contents": [
     {
-      "id": 1,
-      "title": "hello"
+
+      "id": "1",
+      "trade_name": "Taktic 12.5EC",
+      "common_name": "Amitraz 125g/l",
+      "reg_number": "AC/0018",
+      "registrant": "Intervet South Africa (Pty)",
+      "usage": "Control of Mange, mites, ticks and lice on cattle.",
+      "reg_category": "Full Registration"      
     },
     {
-      "id": 2,
-      "title": "hello2"
+      "id": "2",
+      "trade_name": "Tixfix 12.5%EC",
+      "common_name": "Amitraz 125g/l",
+      "reg_number": "AC/0019",
+      "registrant": "Rotam Limited-Kenya",
+      "usage": "Control ticks on cattle.",
+      "reg_category": "Full Registration"  
     },
     {
-      "id": 3,
-      "title": "hello3"
+      "id": "3",
+      "trade_name": "Toptix 12.5%EC",
+      "common_name": "Amitraz 125g/l",
+      "reg_number": "AC/0020",
+      "registrant": "Alfasan International Holland",
+      "usage": "Control of ticks & Ectoparasites on cattle",
+      "reg_category": "Full Registration"  
     }
   ],
   "profile": {
-    "name": "dan"
+    "name": "dan",
+    "age": 40
+    "address": {
+      "place": "Dar es Salaam",
+      "country": "Tanzania",
+      "postalBox": "111111 DSM"
+    }
   }
 }
