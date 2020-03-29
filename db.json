@@ -27,6 +27,15 @@
       "registrant": "Alfasan International Holland",
       "usage": "Control of ticks & Ectoparasites on cattle",
       "reg_category": "Full Registration"  
+    },    
+    {
+      "id": "4",
+      "trade_name": "Ecotix 100EC",
+      "common_name": "Cypermethrin high cis 100g/l",
+      "reg_number": "AC/0025",
+      "registrant": "FarmBase Limited - Tanzania",
+      "usage": "Control of Ticks and tsetse flies on cattle",
+      "reg_category": "Full Registration"  
     }
   ],
   "profile": {
