@@ -1,43 +1,204 @@
 {
   "contents": [
-    {
-
-      "id": "1",
-      "trade_name": "Taktic 12.5EC",
-      "common_name": "Amitraz 125g/l",
-      "reg_number": "AC/0018",
-      "registrant": "Intervet South Africa (Pty)",
-      "usage": "Control of Mange, mites, ticks and lice on cattle.",
-      "reg_category": "Full Registration"      
-    },
-    {
-      "id": "2",
-      "trade_name": "Tixfix 12.5%EC",
-      "common_name": "Amitraz 125g/l",
-      "reg_number": "AC/0019",
-      "registrant": "Rotam Limited-Kenya",
-      "usage": "Control ticks on cattle.",
-      "reg_category": "Full Registration"  
-    },
-    {
-      "id": "3",
-      "trade_name": "Toptix 12.5%EC",
-      "common_name": "Amitraz 125g/l",
-      "reg_number": "AC/0020",
-      "registrant": "Alfasan International Holland",
-      "usage": "Control of ticks & Ectoparasites on cattle",
-      "reg_category": "Full Registration"  
-    },    
-    {
-      "id": "4",
-      "trade_name": "Ecotix 100EC",
-      "common_name": "Cypermethrin high cis 100g/l",
-      "reg_number": "AC/0025",
-      "registrant": "FarmBase Limited - Tanzania",
-      "usage": "Control of Ticks and tsetse flies on cattle",
-      "reg_category": "Full Registration"  
-    }
-  ],
+ {
+   "id": 1,
+   "trade_name": "Taktic 12.5EC",
+   "common_name": "Amitraz 125g/l",
+   "reg_number": "AC/0018",
+   "registrant": "Intervet South Africa (Pty)",
+   "usage": "Control of Mange, mites, ticks and lice on cattle.",
+   "reg_category": "Full Registration"
+ },
+ {
+   "id": 2,
+   "trade_name": "Tixfix 12.5%EC",
+   "common_name": "Amitraz 125g/l",
+   "reg_number": "AC/0019",
+   "registrant": "Rotam Limited-Kenya",
+   "usage": "Control of Ticks on cattle.",
+   "reg_category": "Full Registration"
+ },
+ {
+   "id": 3,
+   "trade_name": "Toptix 12.5%EC",
+   "common_name": "Amitraz 125g/l",
+   "reg_number": "AC/0020",
+   "registrant": "Alfasan International Holland",
+   "usage": "Control of ticks & Ectoparasites on cattle",
+   "reg_category": "Full Registration"
+ },
+ {
+   "id": 4,
+   "trade_name": "Norotraz 12.5%",
+   "common_name": "Amitraz 125g/l",
+   "reg_number": "AC/0022",
+   "registrant": "Norbrook Laboratories-Kenya",
+   "usage": "Control of Ticks on cattle.",
+   "reg_category": "Full Registration"
+ },
+ {
+   "id": 5,
+   "trade_name": "Vectocide EC",
+   "common_name": "Deltamethrin 50g/l",
+   "reg_number": "AC/0023",
+   "registrant": "Ceva Sante - France",
+   "usage": "Control of Ticks and tsetse flies on cattle",
+   "reg_category": "Full Registration"
+ },
+ {
+   "id": 6,
+   "trade_name": "Paratryn 15%",
+   "common_name": "Amitraz 125g/l",
+   "reg_number": "AC/0024",
+   "registrant": "Merial -RSA",
+   "usage": "Control of Ticks on cattle.",
+   "reg_category": "Full Registration"
+ },
+ {
+   "id": 7,
+   "trade_name": "Ecotix 100EC",
+   "common_name": "cypermethrin high cis 100g/l",
+   "reg_number": "AC/0025",
+   "registrant": "FarmBase Limited - Tanzania",
+   "usage": "Control of Ticks and tsetse flies on cattle",
+   "reg_category": "Full Registration"
+ },
+ {
+   "id": 8,
+   "trade_name": "Tiktik 12.5EC",
+   "common_name": "Amitraz 125g/l",
+   "reg_number": "AC/0026",
+   "registrant": "FarmBase Limited - Tanzania",
+   "usage": "Control of Ticks on cattle.",
+   "reg_category": "Full Registration"
+ },
+ {
+   "id": 9,
+   "trade_name": "Paratraz 12.5%",
+   "common_name": "Cypermethrin 125g/l",
+   "reg_number": "AC/0027",
+   "registrant": "Merial - RSA",
+   "usage": "Control of Ticks on cattle",
+   "reg_category": "Full Registration"
+ },
+ {
+   "id": 10,
+   "trade_name": "Alphatix 12.5%EC",
+   "common_name": "Amitraz 125g/l",
+   "reg_number": "AC/0028",
+   "registrant": "Ultravetis Tanzania Ltd- Tanzania",
+   "usage": "Control of Ticks on cattle.",
+   "reg_category": "Full Registration"
+ },
+ {
+   "id": 11,
+   "trade_name": "Cybadip 15EC",
+   "common_name": "Cypermethrin 15%",
+   "reg_number": "AC/0029",
+   "registrant": "Bajuta International (T) Limited - Tanzania",
+   "usage": "Control of Ticks and tsetse flies on cattle",
+   "reg_category": "Full Registration"
+ },
+ {
+   "id": 12,
+   "trade_name": "Bamitraz 12.5EC",
+   "common_name": "Amitraz 125g/l",
+   "reg_number": "AC/0030",
+   "registrant": "Bajuta International (T) Limited - Tanzania",
+   "usage": "Control of Ticks and tsetse flies on cattle",
+   "reg_category": "Full Registration"
+ },
+ {
+   "id": 13,
+   "trade_name": "Tickbuster 12.5EC",
+   "common_name": "Amitraz 125g/l",
+   "reg_number": "AC/0031",
+   "registrant": "Chemplex Animal and Public health - Zimbabwe",
+   "usage": "Control of Ticks on cattle.",
+   "reg_category": "Full Registration"
+ },
+ {
+   "id": 14,
+   "trade_name": "Notix",
+   "common_name": "Deltamethrin 500g/l",
+   "reg_number": "AC/0032",
+   "registrant": "Rotam Agrochemical - Kenya",
+   "usage": "Control of Ticks and tsetse flies on cattle",
+   "reg_category": "Full Registration"
+ },
+ {
+   "id": 15,
+   "trade_name": "Kupatix 12.5%EC",
+   "common_name": "Amitraz 125g/l",
+   "reg_number": "AC/0033",
+   "registrant": "Cooper K Brands Limited -Kenya",
+   "usage": "Control of Ticks on cattle.",
+   "reg_category": "Full Registration"
+ },
+ {
+   "id": 16,
+   "trade_name": "Amitan 12.5EC",
+   "common_name": "Amitraz 125g/l",
+   "reg_number": "AC/0034",
+   "registrant": "Biotec Laboratories Ltd - Kenya",
+   "usage": "Control of Ticks on cattle.",
+   "reg_category": "Full Registration"
+ },
+ {
+   "id": 17,
+   "trade_name": "Kupedip 6%EC",
+   "common_name": "Flumethrin 60g/l",
+   "reg_number": "AC/0035",
+   "registrant": "Mega Generic Limited - Tanzania",
+   "usage": "Control of Ticks and tsetse flies on cattle",
+   "reg_category": "Full Registration"
+ },
+ {
+   "id": 18,
+   "trade_name": "Deltix 2.5 EC",
+   "common_name": "Deltamethrin 250g/L",
+   "reg_number": "AC/0054",
+   "registrant": "FarmBase Limited - Tanzania",
+   "usage": "Control of Tsetse Flies And Ticks on cattle",
+   "reg_category": "Full Registration"
+ },
+ {
+   "id": 19,
+   "trade_name": "Smash 1% Pour\non",
+   "common_name": "Deltamethrin 1%",
+   "reg_number": "AC/0055",
+   "registrant": "Tagros Limited - India",
+   "usage": "Control of Ticks on cattle",
+   "reg_category": "Full Registration"
+ },
+ {
+   "id": 20,
+   "trade_name": "Vectoplus EC",
+   "common_name": "Cypermethrin 15g/l + Chlorpyrifos 25g/l",
+   "reg_number": "AC/0056",
+   "registrant": "Ceva sante Animale- France",
+   "usage": "Ticks",
+   "reg_category": "Full Registration"
+ },
+ {
+   "id": 21,
+   "trade_name": "Duodip EC",
+   "common_name": "Chlorpyriphos 500g/l and Cypermethrin 5g/l",
+   "reg_number": "AC/0057",
+   "registrant": "Norbrook Laboratories- Kenya",
+   "usage": "Against cattle ticks",
+   "reg_category": "Full Registration"
+ },
+ {
+   "id": 22,
+   "trade_name": "Topline 1% EC",
+   "common_name": "Fipronil 1g/100mls",
+   "reg_number": "AC/0057",
+   "registrant": "Ronheam International - South Africa",
+   "usage": "Control of Ticks on cattle",
+   "reg_category": "Full Registration"
+ }
+],
   "profile": {
     "name": "dan",
     "age": 40,
