@@ -199,6 +199,22 @@
    "reg_category": "Full Registration"
  }
 ],
+  "mall_products": [
+ {
+   "id": 1,
+   "name": "product1",
+   "mall_number": "number1",
+   "category": "category1",
+   "description": "Product 1 Description"
+ },
+ {
+   "id": 2,
+   "name": "product2",
+   "mall_number": "number2",
+   "category": "category2",
+   "description": "Product 2 Description"
+ }
+  ],
   "profile": {
     "name": "Dustan Mbaga",
     "age": 29,
